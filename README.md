@@ -25,7 +25,7 @@ The purpose of the project is to visualize the change in average child mortality
 
 ## General Usage
 
-1. Clone the Git repository: `git clone `
+1. Clone the Git repository: `git clone https://github.com/NenadGataric/Gapminder-Data-Vizualisation-.git`
 2. Install the requirements: `pip install requirements.txt`
 
 
